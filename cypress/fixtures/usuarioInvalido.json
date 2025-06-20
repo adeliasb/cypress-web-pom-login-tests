@@ -1,0 +1,14 @@
+{
+  "senhaErrada": {
+    "username": "tomsmith",
+    "password": "senhaIncorreta"
+  },
+  "usuarioInexistente": {
+    "username": "naoexiste",
+    "password": "senhaQualquer"
+  },
+  "camposVazios": {
+    "username": "",
+    "password": ""
+  }
+}

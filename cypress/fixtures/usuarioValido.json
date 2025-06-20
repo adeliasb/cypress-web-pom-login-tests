@@ -1,0 +1,14 @@
+{
+  "simples": {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!"
+  },
+  "avancado": {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!"
+  },
+  "vendedor": {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!"
+  }
+}
