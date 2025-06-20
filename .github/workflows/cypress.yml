@@ -22,5 +22,5 @@ jobs:
       - name: Instalar dependências
         run: npm ci
 
-      - name: Executar Cypress em modo headless
-        run: npx cypress run
+      - name: Executar Cypress no Chrome em modo headless
+        run: npx cypress run --browser chrome
